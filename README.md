@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/Darraya55/Product-preview-card-component)
+- Live Site URL: (https://darraya55.github.io/Product-preview-card-component/)
 
 ### Built with
 
@@ -51,4 +51,4 @@ I learned how to view content differently for Devices with different screen widt
 
 ## Author
 
-- Frontend Mentor - [@Darraya55](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Darraya55](https://www.frontendmentor.io/profile/Darraya55)
